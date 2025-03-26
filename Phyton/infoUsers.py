@@ -1,3 +1,7 @@
+#Entregable 1 Python
+#Toni Carretero Barroso
+#26/03/2025
+
 import os
 import cpuinfo
 
