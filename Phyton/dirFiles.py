@@ -1,3 +1,7 @@
+"""Toni Carretero Barroso 
+Segundo entregable de ISO"""
+
+
 import os
 import shutil
 
